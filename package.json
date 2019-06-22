@@ -1,0 +1,17 @@
+{
+  "name": "fioriapp",
+  "version": "1.0.0",
+  "description": "UI5 Application ",
+  "main": "index.js",
+  "scripts": {
+    "test": "",
+    "build": "tsc"
+
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^12.0.10",
+    "typescript": "^3.5.2"
+  }
+}
